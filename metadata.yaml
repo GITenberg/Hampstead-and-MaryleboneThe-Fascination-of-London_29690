@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29690#Hampstead-and-MaryleboneThe-Fascination-of-London
 gutenberg_issued: '2009-08-15'
 gutenberg_type: Text
 identifiers:
